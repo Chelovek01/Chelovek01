@@ -13,7 +13,7 @@
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-- 👨‍💼 Looking for a job
+- :zap: 💼 Looking for a job
 - :rocket: Always ready to collaborate for Dev Experiments
 - :zap: Fun fact: My first profession Agronomist<br>
 
