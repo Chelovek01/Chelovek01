@@ -10,7 +10,7 @@
 <p align="left">
     <a href="https://www.python.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" alt="html5" width="40" height="40"/> </a>
     <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://repository-images.githubusercontent.com/119871947/bfe23e80-e7d0-11e9-97e0-4eec55c9f883" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="http://htmlbook.ru/css" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css3" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
