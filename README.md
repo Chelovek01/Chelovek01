@@ -18,4 +18,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge]](https://vk.com/id42652482)
+[![Linkedin Badge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXXRpKRbO2FJF2Onk4wVFQiNf4gKu0_91NvhohZaq8vYiCPV_M4THCueH1sQWlgBp6avo&usqp=CAU)](https://vk.com/id42652482)
