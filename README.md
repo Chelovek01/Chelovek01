@@ -18,4 +18,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+[![Linkedin Badge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzohZrx8F2VnIBaZERVkRLXvyrmBXlUwWimiDl8FkdihcphvrDk_fBJS6FP2g81m9i1ps&usqp=CAU)](https://vk.com/id42652482)
