@@ -14,7 +14,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 - 💼 Looking for new knowledge<br>
 - :rocket: Always ready to collaborate for Dev Experiments<br>
-- 🌝 I love spending time with friends
+- 🌝 I love spending time with friends<br>
 - :zap: Fun fact: My first profession Agronomist<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
