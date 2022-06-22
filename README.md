@@ -13,8 +13,8 @@
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-- :zap: 💼 Looking for a job
-- :rocket: Always ready to collaborate for Dev Experiments
+- :zap: 💼 Looking for a job<br>
+- :rocket: Always ready to collaborate for Dev Experiments<br>
 - :zap: Fun fact: My first profession Agronomist<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
