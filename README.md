@@ -4,7 +4,7 @@
   <br> I'm John, Junior Python Developer :computer:<br>
   <br>
     <img src="https://polycent.ru/media/pictures/images/Hacker.gif" alt="Coder GIF" width="800">
- </abc><br><br>
+ </abc><br>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
