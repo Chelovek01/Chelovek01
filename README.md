@@ -18,4 +18,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-<a href="https://vk.com/id42652482" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXXRpKRbO2FJF2Onk4wVFQiNf4gKu0_91NvhohZaq8vYiCPV_M4THCueH1sQWlgBp6avo&usqp=CAU" alt="vk" width="40" height="40"/> </a>
+<a href="https://vk.com/id42652482" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTIao0NCA1jJy19LpOTRqcSzYjxilQVnPmBt0oAvQqhiIZ1oKs_KAAnYHCZqwqQIM9Ai8&usqp=CAU" alt="vk" width="40" height="40"/> </a>
